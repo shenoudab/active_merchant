@@ -385,3 +385,7 @@ garanti:
   
 direc_pay:
   mid: 200904281000001
+
+migs:
+  merchant_id: TEST512345USD
+  access_code: F05FC469
